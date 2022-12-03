@@ -8,6 +8,7 @@ public class PracticaswrestApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(PracticaswrestApplication.class, args);
+		System.out.println("MODIFICACICIÓN PARA PRUEBA DE PRIMER EXAMEN FINAL");
 	}
 
 }
